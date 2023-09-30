@@ -4,10 +4,12 @@
 
 The **Cryptoline** is a command-line tool that provides encryption and decryption functionalities using various ciphers. It includes options for encryption and decryption using different methods, such as Reverse Cipher, Caesar Cipher, Vigenere Cipher, and Hash Cipher.
 
-![Screenshot1](/screenshots/screenshot1.png)
-![Screenshot2](/screenshots/screenshot2.png)
-![Screenshot3](/screenshots/screenshot3.png)
-![Screenshot4](/screenshots/screenshot4.png)
+![Screenshot1](/screenshots/1.jpg)
+![Screenshot2](/screenshots/2.jpg)
+![Screenshot3](/screenshots/3.jpg)
+![Screenshot4](/screenshots/4_1.jpg)
+![Screenshot4](/screenshots/4_2.jpg)
+![Screenshot4](/screenshots/5.jpg)
 
 ## Features
 
